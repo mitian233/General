@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的GitHub静态页面
 
-You can use the [editor on GitHub](https://github.com/mitian233/General/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以在 [editor on GitHub](https://github.com/mitian233/General/edit/master/README.md) 编辑Markdown文件来维护和预览网站内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交这个存储库时, GitHub 页面将要运行 [Jekyll](https://jekyllrb.com/) 从在Markdown文件的内容去重建这个页面。
+
 
 ### Markdown
 
