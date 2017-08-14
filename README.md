@@ -4,6 +4,7 @@
 
 每当您提交这个存储库时, GitHub 页面将要运行 [Jekyll](https://jekyllrb.com/) 从在Markdown文件的内容去重建这个页面。
 
+**以下懒得翻译了**
 
 ### Markdown
 
